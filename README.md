@@ -12,7 +12,7 @@
 * CSS 3
 
 ### Who Am I? 
-![Me](https://github.com/isaacsungpak/BadReads/blob/main/DatabaseSchemeGroup.png)
+![Me](https://github.com/ryanbender34/ryanbender34/blob/main/who_am_i.png)
 
 <!--
 **ryanbender34/ryanbender34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
