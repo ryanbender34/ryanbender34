@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+### Technologies I Love:
+* Front / Backend Development
+* Data Science
+
+### Programming Languages
+* JavaScript
+* Python
+* React / Redux
+* HTML 5
+* CSS 3
+
+### Who Am I? 
+![Me](https://github.com/isaacsungpak/BadReads/blob/main/DatabaseSchemeGroup.png)
+
 <!--
 **ryanbender34/ryanbender34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
