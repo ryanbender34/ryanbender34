@@ -14,6 +14,9 @@
 ### Who Am I? 
 ![Me](https://github.com/ryanbender34/ryanbender34/blob/main/who_am_i.png)
 
+### Other Stuff
+[My Resume](https://drive.google.com/drive/folders/1lO73QeE8TgTHjdX0BxLKZkpoR2IV8gUG)
+
 <!--
 **ryanbender34/ryanbender34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
